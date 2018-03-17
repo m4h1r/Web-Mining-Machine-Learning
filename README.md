@@ -7,4 +7,4 @@ a.py ==> This is the script of adding old football match data from Maçkolik. Fo
 
 p.py ==> This is the script to predict match results according to archived data.
 
-Mac.csv ==> This is the list of archived football matches.
+Mac.csv ==> This is the list of archived football matches which are last 2 years Turkish Super League.
